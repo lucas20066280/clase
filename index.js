@@ -1,1 +1,0 @@
-console.log("Lucas Reynoso 7°4");
